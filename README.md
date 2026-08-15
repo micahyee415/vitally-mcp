@@ -1,3 +1,5 @@
+> **📦 Archived reference implementation** — built 2025–2026 while running IT solo at an HR-tech SaaS. Kept as a portfolio piece; dependencies are frozen as of archiving (August 2026). More projects: [github.com/micahyee415](https://github.com/micahyee415).
+
 # vitally-mcp-server
 
 > A Model Context Protocol (MCP) server for the [Vitally](https://vitally.io) customer-success platform — 40 tools covering read and write operations — deployed on Google Cloud Run with Google OAuth authentication.
